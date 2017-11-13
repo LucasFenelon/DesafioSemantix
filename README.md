@@ -18,3 +18,5 @@
       SETX HADOOP_HOME="C:/winutils" <br>
       SETX PATH=$PATH;$HADOOP_HOME <br>
     10 - Descompactar os datasets na própria pasta Documents e executar o código do teste pelo comando(CMD) "python nasa_main.py"
+	
+### Grafo (Scala)
