@@ -1,4 +1,4 @@
-# DesafioSemantx
+# DesafioSemantix
 
 ### Spark (Windows)
   Saudações, para o completo funcionamento desse teste, temos algumas diretivas a serem seguidas: <br>
