@@ -20,3 +20,14 @@
     10 - Descompactar os datasets na própria pasta Documents e executar o código do teste pelo comando(CMD) "python nasa_main.py"
 	
 ### Grafo (Scala)
+   Saudações, para o completo funcionamento desse teste, temos algumas diretivas a serem seguidas: <br>
+      1 - instalacao do sbt scala (link no site http://www.scala-sbt.org/download.html) <br>
+      2 - co figuracao de variaveis de ambiente <br>
+         SCALA_HOME=C:\Program Files (x86)\sbt <br>
+         SETX SBT_HOME=C:\Program Files (x86)\sbt <br>
+	 SETX PATH=$PATH;%SCALA_HOME%\bin <br>
+	
+	
+      3 - no prompt de comando nevagar ate a pasta que temos o build e executar seguidamente os comandos "sbt about' e 'sbt package' <br>
+      4 - no mesmo diretorio sera criada a pasta 'targst', dentro desta teremos a pasta scala e o .jar gerado <br>
+      5 - nessa pasta executar(CMD) o comando 'scalac Semantix.jar' para ver o resultado <br>
