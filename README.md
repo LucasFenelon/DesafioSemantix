@@ -19,7 +19,7 @@
       SETX PATH=$PATH;$HADOOP_HOME <br>
     10 - Descompactar os datasets na própria pasta Documents e executar o código do teste pelo comando(CMD) "python nasa_main.py"
 	
-### Grafo (Scala)
+### Proximidade (Scala)
    Saudações, para o completo funcionamento desse teste, temos algumas diretivas a serem seguidas: <br>
       1 - instalacao do sbt scala (link no site http://www.scala-sbt.org/download.html) <br>
       2 - co figuracao de variaveis de ambiente <br>
